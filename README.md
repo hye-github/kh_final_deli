@@ -25,8 +25,9 @@
 ### 개발환경
 - **Back-End -** JDK11, Spring Boot 2.7.6, Spring Batch, MyBatis, OracleDB(ojdbc v8), Redis
 - **Front-End -** HTML5, CSS, JavaScript, jQuery, Ajax, Jsp
-- **Infra -** AWS EC2(Windows), tomcat 8.5, Route 53, Cafe24(DNS)
+- **Infra -** AWS EC2(Windows), tomcat 8.5, Route 53, Gabia(DNS)
 - **API, 라이브러리 -** Kakao API(login, pay, map), Naver API(sms), Java mail sender, WebSocket, Sweetalert2, Bootstrap, Web-socket
+- **협업 툴 -** Slack, Git, Github, Github Desktop, Source tree, Google sheet, Notion, Erd cloud, Discord
 
 ### 디렉토리 패키지 구조 - 도메인
 
